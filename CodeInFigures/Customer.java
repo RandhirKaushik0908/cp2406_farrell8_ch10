@@ -9,7 +9,6 @@ public class Customer
    }
    public void display()
    {
-      System.out.println("Customer #" + idNumber +
-        " Balance $" + balanceOwed);
+      System.out.println("Customer #" + idNumber + " Balance $" + balanceOwed);
    }
 }
